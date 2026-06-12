@@ -9,6 +9,18 @@ This repository contains the complete submission for the Flutter Developer Inter
 
 ---
 
+## 📱 Application Previews
+
+| Home Screen | Product Detail |
+| :---: | :---: |
+| <img src="assets/screenshot_home.png" width="320" alt="Home Screen" /> | <img src="assets/screenshot_detail.png" width="320" alt="Product Detail" /> |
+
+### 🎥 Screen Recording Demo
+Watch the 12-second screen recording showing our premium animations, smooth grid entry, and scrolling speed:
+[assets/app_demo.mp4](assets/app_demo.mp4)
+
+---
+
 ## 📸 Core UI Highlights & Features
 
 1. **Midnight Champagne Design Language**: Highly customized dark palette (`#0C0C0F` / `#16161A`) accented with soft Champagne Gold (`#E5C158`) and Terracotta Coral (`#E97B5E`).
